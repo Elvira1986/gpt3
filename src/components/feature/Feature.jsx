@@ -1,6 +1,6 @@
 import React from "react";
 import "./feature.css";
 
-export default function Feature() {
-  return <div>Feature</div>;
-}
+const Feature = () => <div>Feature</div>;
+
+export default Feature;
